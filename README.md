@@ -1,4 +1,5 @@
 🎬 **Hybrid Movie Recommendation System**
+
 A hybrid recommendation engine that combines Content-Based Filtering and Collaborative Filtering to suggest movies based on both title similarity and user taste — built with an interactive UI inside Jupyter Notebook.
 
 📖 Followed a project tutorial as the foundation, then focused on understanding every line of code, debugging real errors, and extending it with a custom genre filter feature.
